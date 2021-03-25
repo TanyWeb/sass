@@ -1,0 +1,19 @@
+p {
+    color: aqua;
+}
+
+.card {
+    width: 200px;
+    height: 250px;
+
+    &_title {
+        color: red;
+    }
+
+    .item {
+        width: 80%;
+        height: 50%;
+        background-color: sandybrown;
+    }
+
+}

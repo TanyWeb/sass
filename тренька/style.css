@@ -1,0 +1,24 @@
+p {
+  color: aqua;
+}
+
+.card {
+  width: 200px;
+  height: 250px;
+}
+
+.card_title {
+  color: red;
+}
+
+.card .item {
+  width: 80%;
+  height: 50%;
+  background-color: sandybrown;
+}
+
+h1 {
+  color: blue;
+  font-family: "Arial", sans-serif;
+}
+/*# sourceMappingURL=style.css.map */
